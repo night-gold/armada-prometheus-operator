@@ -1,0 +1,8 @@
+commonLabels:
+  app: prometheus-operator
+namespace: monitoring
+resources:
+- serviceaccount.yaml
+- deployment.yaml
+- clusterroles.yaml
+- clusterrolebinding.yaml
