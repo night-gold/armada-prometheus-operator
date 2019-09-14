@@ -6,8 +6,8 @@ For more information about the prometheus-operator please have a look [here](htt
 
 ## Versions
 
-Package: 
-App:
+Package: v1.0.0
+App: [prometheus operator 0.33.0](https://github.com/night-gold/armada-prom-op)
 
 ## Details
 
