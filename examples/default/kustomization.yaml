@@ -1,3 +1,6 @@
+namespace: monitoring
 bases:
 - "../../base"
 patches: []
+resources:
+- namespace.yaml
